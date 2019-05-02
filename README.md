@@ -54,9 +54,4 @@ Website url: http://rabby.net
     All the AWS infrastructure is created by <a href="https://www.terraform.io/" target="_blank">Terraform</a>. The Terraform files are
     kept under source control so that infrastructure changes are versioned.
 </p>
-<h3>
-    Code
-</h3>
-<p>
-    The <a href="https://github.com/rabbycse/Personal-Website" target="_blank">code for this site</a> is in GitHub.
-</p>
+
