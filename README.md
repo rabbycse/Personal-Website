@@ -6,7 +6,7 @@ Simple-Personal-Website
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/37344605/57102470-623f5700-6d45-11e9-8576-5e45069aad87.gif)
 
-Website url: http//rabby.net
+Website url: http://rabby.net
 
 <h1>About This Site</h1>
 <h3>
@@ -58,5 +58,5 @@ Website url: http//rabby.net
     Code
 </h3>
 <p>
-    The <a href="https://github.com/ekyoung/personal-site-dotnet" target="_blank">code for this site</a> is in GitHub.
+    The <a href="https://github.com/rabbycse/Personal-Website" target="_blank">code for this site</a> is in GitHub.
 </p>
