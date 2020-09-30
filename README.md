@@ -18,7 +18,7 @@ Website url: http://rabby.net
     Angular JS
 </h3>
 <p>
-    The image galleries and  slide shows in the <a href="@Url.Action("index", "trips")">trips</a> portion
+    Those image galleries and  slide shows in the <a href="@Url.Action("index", "trips")">trips</a> portion
     of the site use <a href="http://www.angularjs.org/" target="_blank">Angular JS</a>. The images are
     all deployed to a separate domain. Each collection of images also contains an index file with titles,
     the date the picture was taken, and a few descriptions. An <a href="http://www.angularjs.org/" target="_blank">Angular JS</a>
@@ -28,7 +28,7 @@ Website url: http://rabby.net
     Bootstrap
 </h3>
 <p>
-    Using <a href="http://getbootstrap.com" target="_blank">Bootstrap</a> made the styling of this site super easy.
+    Using <a href="http://getbootstrap.com" target="_blank">Bootstrap</a> made  styling of this site super easy.
     I used some of the responsive features of the framework in the <a href="@Url.Action("index", "trips")">trips</a> portion
     of the site to hide the left nav on smaller devices. Since I'm not a graphic designer (and I'm colorblind), I used
     the Flatly theme from <a href="http://bootswatch.com" target="_blank">Bootswatch</a> for the look and feel.
